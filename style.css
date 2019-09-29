@@ -10,7 +10,7 @@
 .container{
   margin-left: 30px;
   margin-right: 30px;
-  text-align: right;
+  position: center;
  
 }
 
@@ -41,9 +41,9 @@ float: left;
 
 .contact{
   float: left;
-  font-color: teal;
-  background: white;
   color: red;
+  background: white;
+
 }
 
 .jakebob{
@@ -52,4 +52,18 @@ float: left;
   border: 2px;
   border-radius: 4px;
   margin: 8px 0;
+}
+
+.block{
+  color: red;
+  padding: 0 5px;
+	line-height: 10px;
+}
+
+.contact{
+  color: teal;
+}
+
+.button{
+  background-color: teal; 
 }
